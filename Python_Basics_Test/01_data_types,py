@@ -1,0 +1,7 @@
+
+a = -139
+b = 234.641
+c= 3+6j
+
+print(a,b,c)
+print(type(a),type(b), type(c))
